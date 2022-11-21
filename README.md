@@ -11,6 +11,6 @@ Youtube Channel: [XKode](https://www.youtube.com/channel/UC5miFflrVD5u0sOvy3LbYZ
 
 - 👋 Hi, I’m @XKodeGitHub
 
-Estudiando desarrolo web y experimentando con nuevas tecnologias.
+Estudiando desarrollo web y experimentando con nuevas tecnologías.
 
 Canal de Youtube: [XKode](https://www.youtube.com/channel/UC5miFflrVD5u0sOvy3LbYZQ)
